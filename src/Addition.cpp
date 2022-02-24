@@ -15,3 +15,9 @@ int Addition::add(int paramX, int paramY) {
 int Addition::add() {
     return 100;
 }
+
+Addition::Addition() {}
+
+Addition::~Addition() {
+
+}

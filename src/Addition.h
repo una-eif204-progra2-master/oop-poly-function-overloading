@@ -14,6 +14,16 @@
 class Addition {
 public:
     /**
+     * Basic Constructor
+     */
+    Addition();
+
+    /**
+     * Basic Destructor
+     */
+    virtual ~Addition();
+
+    /**
      * Add method
      * @param paramX
      * @param paramY
